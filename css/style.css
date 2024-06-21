@@ -10,3 +10,9 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 36px;
 }
+
+img.dish {
+    width: 600px;
+    height: auto;
+    border-radius: 15px;
+}
