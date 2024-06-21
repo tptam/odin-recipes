@@ -22,3 +22,11 @@ img.dish {
     height: auto;
     border-radius: 15px;
 }
+
+a {
+    color: #E66A47;
+}
+
+a:visited {
+    color: #C77B62;
+}
