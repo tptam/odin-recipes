@@ -1,3 +1,9 @@
+body {
+    color: #444444;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
 h1 {
     color: #F98866;
     font-family: 'Courier New', Courier, monospace;
