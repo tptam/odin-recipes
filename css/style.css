@@ -39,6 +39,10 @@ ol {
     padding-left: 48px;
 }
 
+li {
+    margin: 12px;
+}
+
 img.dish {
     display: block;
     width: 600px;
