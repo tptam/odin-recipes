@@ -1,8 +1,8 @@
-/* * {
+* {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-} */
+}
 
 body {
     color: #444444;
@@ -38,12 +38,26 @@ a:visited {
     color: #C77B62;
 }
 
-ul.recipes{
+/* h1.top {
+    background-color: #A1Be95;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 24px;
+    margin: 4px auto;
+    width: 50%;
+    text-align: center;
+} */
+
+ul.recipes {
     border: 4px #A1BE95 dotted;
     border-radius: 4px;
     list-style-type: none;
-    padding: 24px;
+    padding: 20px 24px;
     margin: 40px;
     width: 50%;
+}
+
+ul.recipes li {
+    margin: 4px;
 }
 
