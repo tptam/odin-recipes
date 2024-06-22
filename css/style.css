@@ -11,7 +11,6 @@ body {
 }
 
 h1 {
-    /* color: #F98866; */
     color: #A1BE95;
     font-family: 'Courier New', Courier, monospace;
     font-size: 48px;
@@ -38,22 +37,22 @@ a:visited {
     color: #C77B62;
 }
 
-/* h1.top {
+h1.sitetitle {
     background-color: #A1Be95;
     color: white;
     padding: 12px 24px;
     border-radius: 24px;
-    margin: 4px auto;
-    width: 50%;
+    margin: 24px auto;
+    width: 420px;
     text-align: center;
-} */
+}
 
 ul.recipes {
     border: 4px #A1BE95 dotted;
     border-radius: 4px;
     list-style-type: none;
     padding: 20px 24px;
-    margin: 40px;
+    margin: 24px auto;
     width: 50%;
 }
 
