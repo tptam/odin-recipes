@@ -26,8 +26,10 @@ h2 {
 }
 
 img.dish {
+    display: block;
     width: 600px;
     height: auto;
+    margin: 24px auto;
     border-radius: 15px;
 }
 
