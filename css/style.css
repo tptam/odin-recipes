@@ -1,3 +1,9 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+} */
+
 body {
     color: #444444;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -31,3 +37,13 @@ a {
 a:visited {
     color: #C77B62;
 }
+
+ul.recipes{
+    border: 4px #A1BE95 dotted;
+    border-radius: 4px;
+    list-style-type: none;
+    padding: 24px;
+    margin: 40px;
+    width: 50%;
+}
+
