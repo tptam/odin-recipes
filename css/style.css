@@ -25,6 +25,11 @@ h2 {
     font-size: 36px;
 }
 
+p {
+    margin: 24px auto;
+    width: 80%;
+}
+
 img.dish {
     display: block;
     width: 600px;
