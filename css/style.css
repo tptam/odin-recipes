@@ -33,6 +33,11 @@ h2 {
     font-size: 36px;
 }
 
+ul,
+ol {
+    padding-left: 48px;
+}
+
 img.dish {
     display: block;
     width: 600px;
