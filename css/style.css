@@ -5,7 +5,8 @@ body {
 }
 
 h1 {
-    color: #F98866;
+    /* color: #F98866; */
+    color: #A1BE95;
     font-family: 'Courier New', Courier, monospace;
     font-size: 48px;
     font-weight: bold;
